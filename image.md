@@ -1,0 +1,10 @@
+- 蓝叶工具箱：https://lanye.co/holder/
+- IMG.LA：https://img.la/
+- picsum：https://picsum.photos/
+- dummyimage：https://dummyimage.com/
+- fakeimg：https://fakeimg.pl/
+- placekitten：https://placekitten.com/
+- fpoimg：https://fpoimg.com/
+- placeimg：https://placeimg.com/
+- temp.im：https://temp.im/
+- placeholder：https://placeholder.com/
